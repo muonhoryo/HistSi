@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7cd527392983c419624199d00c6ac8, type: 3}
+  m_Name: New Hist Si Custom Values
+  m_EditorClassIdentifier: 
+  NewKey_Int32: 
+  CurrentValue_Int32: 0
+  NewKey_Float: 
+  CurrentValue_Float: 0.1
+  NewKey_Bool: 
+  CurrentValue_Bool: 0
+  NewKey_String: 
+  CurrentValue_String: 
